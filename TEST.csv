@@ -1,9 +1,3 @@
-"""IM""";"""Titulo""";"""Torre"""
-"""IM64259393""";"""Mejora del programa ZVWA_FI_CONTA_VISA_MANT""";"""FICO"""
-"""IM64709528""";"""SAP FI (P-59) - ERROR AL CONTABILIZAR FACTURA en 0481 por DIF""";"""FICO"""
-"""IM66677738""";"""SAP FI (P-59) - Facturas en estado preliminar""";"""FICO"""
-"""IM66768543""";"""SAP FI (P-59) - ERROR DE SAP""";"""FICO"""
-"""IM66793210""";"""SAP FI - caso Sr AMEIGEIRAS, EMANUEL 80722259""";"""FICO"""
-"""IM66950893""";"""SAP FI (P-59) -  Bloqueo B y D""";"""FICO"""
-"""IM66956690""";"""SAP FI (P-59) - INGRESOS BRUTOS CORDOBA - TAREA A REALIZAR PARA EL QUE ESTE DISPONIBLE EL PRIMER  DIA CALENDARIO  2019""";"""FICO"""
-"""IM66965724""";"""SAP FI (P-59) - NUEVOS RANGOS DE 7227 PARA EL AÑO 2018""";"""FICO"""
+IM;Titulo;Torre
+A;ABC;FICO
+B;ABC;FICO
