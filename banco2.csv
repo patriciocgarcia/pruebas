@@ -1,9 +1,8 @@
-age;job;marital;education;default;balance;housing;loan;contact;day;month;duration;campaign;pdays;previous;poutcome;y
-a;unemployed;married;primary;no;y;no;no;cellular;19;oct;79;1;-1;0;unknown;no
-b;services;married;secondary;no;y;yes;yes;cellular;11;may;220;1;339;4;failure;no
-a;management;single;tertiary;no;y;yes;no;cellular;16;apr;185;1;330;1;failure;no
-a;management;married;tertiary;no;y;yes;yes;unknown;3;jun;199;4;-1;0;unknown;no
-a;blue-collar;married;secondary;no;y;yes;no;unknown;5;may;226;1;-1;0;unknown;no
-c;management;single;tertiary;no;y;no;no;cellular;23;feb;141;2;176;3;failure;no
-c;self-employed;married;tertiary;no;y;yes;no;cellular;14;may;341;1;330;2;other;no
-d;technician;married;secondary;no;y;yes;no;cellular;6;may;151;2;-1;0;unknown;no
+30;unemployed;married;primary;no;1;no;no;cellular;19;oct;79;1;-1;0;unknown;no
+30;services;married;secondary;no;2;yes;yes;cellular;11;may;220;1;339;4;failure;no
+44;management;single;tertiary;no;3;yes;no;cellular;16;apr;185;1;330;1;failure;no
+33;management;married;tertiary;no;1;yes;yes;unknown;3;jun;199;4;-1;0;unknown;no
+22;blue-collar;married;secondary;no;2;yes;no;unknown;5;may;226;1;-1;0;unknown;no
+11;management;single;tertiary;no;2;no;no;cellular;23;feb;141;2;176;3;failure;no
+11;self-employed;married;tertiary;no;2;yes;no;cellular;14;may;341;1;330;2;other;no
+23;technician;married;secondary;no;1;yes;no;cellular;6;may;151;2;-1;0;unknown;no
